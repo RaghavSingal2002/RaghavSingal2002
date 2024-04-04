@@ -1,4 +1,4 @@
-![A passionate Software developer from India](https://media.licdn.com/dms/image/D5616AQEQNX7Zo6T6FQ/profile-displaybackgroundimage-shrink_350_1400/0/1707586872164?e=1715817600&v=beta&t=0uUSf3cQd-WhrJ1m4vZuQSZTfVqbaUUeOMyzv40rSwc)
+![A passionate Software developer from India]
 
 ### Hi there 👋, My Name is Raghav Singal
 #### A passionate Software developer from India
