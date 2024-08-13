@@ -8,8 +8,8 @@ Hey there, everyone! 👋 I'm a third-year college student with a serious passio
 Skills: C/C++/Python/Java/Data Science/Machine Learning/DBMS/Digital Marketing
 
 - 🔭 I’m currently working on a Machine Learning Project. 
-- 🌱 I’m currently learning Flask, Data Analytics, and Generative AI. 
-- 💬 Ask me about Java, Python, C++, JavaScript, Data Structures and Algorithms. 
+- 🌱 I’m currently learning Flask, and Generative AI. 
+- 💬 Ask me about Java, Python, C++, Data Structures and Algorithms. 
 - 📫 How to reach me: singalraghav3@gmail.com 
 
 
