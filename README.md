@@ -3,12 +3,12 @@
 ### Hi there 👋, My Name is Raghav Singal
 #### A passionate Software developer from India
 
-Hey there, everyone! 👋 I'm a third-year college student with a serious passion for AI/ML technologies. I love exploring the intersections of technology and innovation, and I'm always looking for creative ways to solve real-world problems. Beyond the classroom, I'm constantly seeking out opportunities to apply my skills to meaningful projects. When I'm not coding or working with datasets, you can probably find me playing badminton 🏸 or practicing my table tennis 🏓. Let's connect and see how we can partner up to make a positive impact through technology! 🤝💻 
+Hey there, everyone! 👋 I'm a college passout student with a serious passion for AI/ML technologies. I love exploring the intersections of technology and innovation, and I'm always looking for creative ways to solve real-world problems. Beyond the classroom, I'm constantly seeking out opportunities to apply my skills to meaningful projects. When I'm not coding or working with datasets, you can probably find me playing badminton 🏸 or practicing my table tennis 🏓. Let's connect and see how we can partner up to make a positive impact through technology! 🤝💻 
 
 Skills: C/C++/Python/Java/Data Science/Machine Learning/DBMS/Digital Marketing
 
 - 🔭 I’m currently working on a Machine Learning Project. 
-- 🌱 I’m currently learning Flask, and Generative AI. 
+- 🌱 I’m currently learning Flask and Generative AI. 
 - 💬 Ask me about Java, Python, C++, Data Structures and Algorithms. 
 - 📫 How to reach me: singalraghav3@gmail.com 
 
