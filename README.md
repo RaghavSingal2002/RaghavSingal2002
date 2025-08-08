@@ -4,7 +4,7 @@ A passionate and results-driven Computer Science graduate with hands-on experien
 
 Email: singalraghav3@gmail.com
 
-LinkedIn: linkedin.com/in/Raghav-Singal
+LinkedIn: linkedin.com/in/raghavsingal2002
 
 Portfolio: [Link to your portfolio if you have one]
 
@@ -92,9 +92,5 @@ Created an effective customer attrition prediction system that identified high-r
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaghavSingal2002&show_icons=true&theme=dracula" />
 </a>
 </p>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://streak-stats.demolab.com/?user=RaghavSingal2002&theme=dark" />
-</a>
-</p>
+
 
