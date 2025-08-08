@@ -75,11 +75,26 @@ Created an effective customer attrition prediction system that identified high-r
 💬 Ask me about Python, C++, Data Structures, Algorithms, and Machine Learning.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RaghavSingal2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raghavsingal3/)  
+🤝 Connect with Me:
+<p align="left">
+<a href="https://github.com/RaghavSingal2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="raghavsingal2002" height="30" width="40" /></a>
+<a href="https://www.instagram.com/raghavsingal3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghavsingal3" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSingal2002)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavSingal2002&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RaghavSingal2002)  
+📊 My GitHub Stats:
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSingal2002&layout=compact&theme=radical" />
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RaghavSingal2002&show_icons=true&theme=dracula" />
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://streak-stats.demolab.com/?user=RaghavSingal2002&theme=dark" />
+</a>
+</p>
 
