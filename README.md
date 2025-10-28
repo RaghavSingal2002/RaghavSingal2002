@@ -1,18 +1,12 @@
-This is a great foundation. You have excellent, results-driven content for your projects and experience.
+That's a very common issue! The most likely reason the images are not loading is that you are viewing the README.md file locally in a text editor or IDE.
 
-I've updated your README to be more dynamic, professional, and visually scannable for recruiters. I focused on:
+Most local Markdown previews block external internet requests for security reasons. The images (like your GitHub Stats and the badges) are not stored in your project; they are loaded live from the internet.
 
-A Stronger "Above the Fold": A new intro and a high-visibility link bar for your key socials.
+Once you push this file to your GitHub repository, the images will load correctly when you view the repository on GitHub.com.
 
-A Critical Fix: Your portfolio link (127.0.0.1) was a local address, meaning no one else could see it. I've replaced it with a placeholder for your live, deployed URL.
+However, I have updated the README file to use shields.io for all the social icons, which is a more modern, consistent, and reliable method than using the old simple-icons CDN. This will look more professional and standardized.
 
-Better Structure: I've reorganized your tech stack into collapsible, categorized sections. This is much cleaner and more impressive.
-
-Refined Formatting: I've applied standard Markdown formatting to your projects and experience to make them easier to read.
-
-Professional Polish: I've rephrased some sections to be more active and confident.
-
-Here is the updated README.md file.
+Please copy the code below.
 
 Hi there, I'm Raghav Singal 👋
 <p align="center"> <a href=""> <img src="" alt="GitHub"/> </a> <a href=""> <img src="" alt="LinkedIn"/> </a> <a href="mailto:singalraghav3@gmail.com"> <img src="" alt="Email"/> </a> <a href="[YOUR_LIVE_PORTFOLIO_URL_HERE]"> <img src="" alt="Portfolio"/> </a> </p>
@@ -97,4 +91,4 @@ Enabled targeted outreach campaigns that increased customer retention by 20%.
 <p align="center"> <a href=""> <img align="center" src="" alt="Top Languages" /> </a> <a href=""> <img align="center" src="" alt="GitHub Stats" /> </a> </p>
 
 🤝 Connect with Me
-<p align="center"> <a href="" target="blank"><img align="center" src="" alt="raghavsingal2002" height="40" width="40" /></a> <a href="" target="blank"><img align="center" src="" alt="raghavsingal2002" height="40" width="40" /></a> <a href="" target="blank"><img align="center" src="" alt="raghavsingal3" height="40" width="40" /></a> </p>
+<p align="center"> <a href=""> <img src="" alt="GitHub"/> </a> <a href=""> <img src="" alt="LinkedIn"/> </a> <a href=""> <img src="" alt="Instagram"/> </a> </p>
