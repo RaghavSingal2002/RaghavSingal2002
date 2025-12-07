@@ -42,7 +42,7 @@ Applied the model to a downstream spam classification task, achieving 95.6% accu
 
 Tech Stack: Python, PyTorch, FastAPI, Tiktoken, CUDA, Pandas.
 
-[https://github.com/RaghavSingal2002/LLM_From_Scratch] (<-- Add your project's GitHub link here)
+[https://github.com/RaghavSingal2002/LLM_From_Scratch]
 
 2. Customer Churn Prediction Model
 Developed a Random Forest classifier that achieved 90% accuracy in predicting customer churn on a dataset of over 50,000 records.
@@ -51,7 +51,7 @@ Performed feature engineering on 30+ variables to identify key churn drivers, en
 
 Tech Stack: Python, Scikit-learn, Machine Learning, Pandas, Matplotlib.
 
-[https://github.com/RaghavSingal2002/Churn-Prediction-Model] (<-- Add your project's GitHub link here)
+[https://github.com/RaghavSingal2002/Churn-Prediction-Model] 
 
 3. Malaria Disease Detection System
 Built a Deep Learning (CNN) model for automated malaria detection from over 27,500 blood smear images, achieving 90% validation accuracy.
@@ -60,7 +60,7 @@ Designed a custom image preprocessing pipeline using TensorFlow/Keras to enhance
 
 Tech Stack: Python, TensorFlow, Keras, NLTK, OpenCV.
 
-[https://github.com/RaghavSingal2002/AI-ML-Project-Series_MalariaPrediction] (<-- Add your project's GitHub link here)
+[https://github.com/RaghavSingal2002/AI-ML-Project-Series_MalariaPrediction] 
 
 💼 Professional Experience
 AI Intern @ Feynn Labs
