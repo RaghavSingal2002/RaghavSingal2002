@@ -6,7 +6,6 @@ Once you push this file to your GitHub repository, the images will load correctl
 
 However, I have updated the README file to use shields.io for all the social icons, which is a more modern, consistent, and reliable method than using the old simple-icons CDN. This will look more professional and standardized.
 
-Please copy the code below.
 
 Hi there, I'm Raghav Singal 👋
 <p align="center"> <a href=""> <img src="" alt="GitHub"/> </a> <a href=""> <img src="" alt="LinkedIn"/> </a> <a href="mailto:singalraghav3@gmail.com"> <img src="" alt="Email"/> </a> <a href="[YOUR_LIVE_PORTFOLIO_URL_HERE]"> <img src="" alt="Portfolio"/> </a> </p>
@@ -52,7 +51,7 @@ Applied the model to a downstream spam classification task, achieving 95.6% accu
 
 Tech Stack: Python, PyTorch, FastAPI, Tiktoken, CUDA, Pandas.
 
-[View Code on GitHub] (<-- Add your project's GitHub link here)
+[https://github.com/RaghavSingal2002/LLM_From_Scratch] (<-- Add your project's GitHub link here)
 
 2. Customer Churn Prediction Model
 Developed a Random Forest classifier that achieved 90% accuracy in predicting customer churn on a dataset of over 50,000 records.
@@ -61,7 +60,7 @@ Performed feature engineering on 30+ variables to identify key churn drivers, en
 
 Tech Stack: Python, Scikit-learn, Machine Learning, Pandas, Matplotlib.
 
-[View Code on GitHub] (<-- Add your project's GitHub link here)
+[https://github.com/RaghavSingal2002/Churn-Prediction-Model] (<-- Add your project's GitHub link here)
 
 3. Malaria Disease Detection System
 Built a Deep Learning (CNN) model for automated malaria detection from over 27,500 blood smear images, achieving 90% validation accuracy.
@@ -70,7 +69,7 @@ Designed a custom image preprocessing pipeline using TensorFlow/Keras to enhance
 
 Tech Stack: Python, TensorFlow, Keras, NLTK, OpenCV.
 
-[View Code on GitHub] (<-- Add your project's GitHub link here)
+[https://github.com/RaghavSingal2002/AI-ML-Project-Series_MalariaPrediction] (<-- Add your project's GitHub link here)
 
 💼 Professional Experience
 AI Intern @ Feynn Labs
