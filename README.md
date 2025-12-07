@@ -1,12 +1,3 @@
-That's a very common issue! The most likely reason the images are not loading is that you are viewing the README.md file locally in a text editor or IDE.
-
-Most local Markdown previews block external internet requests for security reasons. The images (like your GitHub Stats and the badges) are not stored in your project; they are loaded live from the internet.
-
-Once you push this file to your GitHub repository, the images will load correctly when you view the repository on GitHub.com.
-
-However, I have updated the README file to use shields.io for all the social icons, which is a more modern, consistent, and reliable method than using the old simple-icons CDN. This will look more professional and standardized.
-
-
 Hi there, I'm Raghav Singal 👋
 <p align="center"> <a href=""> <img src="" alt="GitHub"/> </a> <a href=""> <img src="" alt="LinkedIn"/> </a> <a href="mailto:singalraghav3@gmail.com"> <img src="" alt="Email"/> </a> <a href="[YOUR_LIVE_PORTFOLIO_URL_HERE]"> <img src="" alt="Portfolio"/> </a> </p>
 
