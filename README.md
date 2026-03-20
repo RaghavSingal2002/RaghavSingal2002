@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Raghav Singal 👋</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&width=500&lines=Backend+Developer;AI+%26+ML+Engineer;Backend+Specialist;LLM+%26+GenAI+Builder;Open+Source+Enthusiast" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&width=500&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Backend+Specialist;LLM+%26+GenAI+Builder;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
 
 <br/>
 
