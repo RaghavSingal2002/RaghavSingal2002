@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Raghav Singal 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&width=500&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Backend+Specialist;LLM+%26+GenAI+Builder;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&width=500&lines=Backend+Developer;AI+%26+ML+Engineer;Backend+Specialist;LLM+%26+GenAI+Builder;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -143,14 +143,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavSingal2002&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaghavSingal2002&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
 </div>
 
 ---
