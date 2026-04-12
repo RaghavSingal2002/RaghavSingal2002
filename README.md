@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering** — Jaypee University of Information Technology, Solan *(Class of 2025, GPA: 7.5)*
+- 🎓 **B.Tech in Computer Science & Engineering** — Jaypee University of Information Technology, Solan *(Class of 2025)*
 - 🤖 Currently working as **AI Intern at Goklyn Private Limited** — building AI-powered quiz generators using LangChain & Hugging Face LLMs
 - 🧠 Built a **Real-Time Voice AI System** — end-to-end pipeline: WebSockets → Whisper STT → LLaMA 3.3 70B → TTS
 - 🔬 Built a **Custom LLM from scratch** using PyTorch Transformer Architecture, processing **407 Crore tokens**
