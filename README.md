@@ -121,7 +121,7 @@
 
 | Role | Company | Duration |
 |------|---------|----------|
-| 🤖 AI Intern | Goklyn Private Limited | Dec 2025 – Mar 2026 |
+| 🤖 AI Intern | Goklyn Private Limited | Dec 2025 – Feb 2026 |
 | 💻 Software Engineer Intern | Feynn Labs | Jun 2024 – Aug 2024 |
 | 💻 Software Engineer Intern | Learntricks Edutech | Mar 2024 – Apr 2024 |
 
